@@ -1,6 +1,6 @@
 ### Hi there 👋
-我是Louis Tang，歡迎認識我 :) 
-2020/11/15~2020/2/28 在忙，有空再聯絡。
+我是Louis Tang，我喜歡看書，跑活動、交朋友，歡迎認識我 :) 
+
 
 <!--
 **Lursun/Lursun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
